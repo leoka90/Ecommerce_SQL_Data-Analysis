@@ -1,8 +1,8 @@
-# 🛒 Ecommerce SQL Data Analysis Project
+#  Ecommerce SQL Data Analysis Project
 
 This repository contains SQL scripts and analysis based on a simulated **Ecommerce SQL Database** 
 
-## 📁 Project Structure
+## Project Structure
 
 - `ecommerce_database.sql`: SQL script to create tables (`Customers`, `Products`, `Orders`, `OrderItems`) and insert sample data.
 - `queries.sql`: Contains queries demonstrating SQL operations: `SELECT`, `JOINs`, subqueries, views, aggregates, and indexing.
@@ -11,7 +11,7 @@ This repository contains SQL scripts and analysis based on a simulated **Ecommer
 
 ---
 
-## 🧠 Learning Objectives
+##  Learning Objectives
 
 - Practice writing and executing SQL queries
 - Work with relational databases using MySQL
@@ -20,7 +20,7 @@ This repository contains SQL scripts and analysis based on a simulated **Ecommer
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **MySQL Workbench** for executing and visualizing queries
 - **MySQL Server** for database setup
